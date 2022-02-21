@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.contactForm {
+  background: #fff;
+  margin-top: 8%;
+  margin-bottom: 5%;
+  width: 70%;
+  border-radius: 4px;
+}
+
+.contactImage {
+  text-align: center;
+}
+
+.contactImage img {
+  border-radius: 6rem;
+  width: 11%;
+  margin-top: -3%;
+  transform: rotate(29deg);
+}
+
+.contactForm h3 {
+  text-align: center;
+  color: #0062cc;
+  font-family: 'Righteous', cursive;
+}
+input {
+  outline: none;
+}

@@ -1,0 +1,16 @@
+.topNav {
+  width: 100%;
+  height: 4rem;
+  padding: 1rem;
+}
+.brandName {
+  font-weight: bold;
+  width: 225px;
+}
+.brandName a {
+  color: #dee2e6;
+  display: contents;
+}
+.brandName a:hover {
+  color: #fff;
+}

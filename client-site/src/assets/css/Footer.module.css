@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&display=swap');
+
+.footer {
+  padding-top: 1rem;
+}
+.footer h2 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-bottom: 2px solid orange;
+  font-family: 'Lobster', cursive;
+}
+.footer li {
+  list-style: none;
+}
+.footer a {
+  text-decoration: none;
+  color: lightgray;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.footer a:hover {
+  color: #ffffff;
+}
